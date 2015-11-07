@@ -11,7 +11,7 @@ public class testScene : MonoBehaviour {
 
 	public void TestFunc( int _num )
 	{
-		
+
 	}
 
 	// Use this for initialization
@@ -23,7 +23,7 @@ public class testScene : MonoBehaviour {
 		m_isFlag = false;
 
 		if( m_num == 0 ){
-
+			Debug.Log("テストシーン");
 		}
 	}
 
