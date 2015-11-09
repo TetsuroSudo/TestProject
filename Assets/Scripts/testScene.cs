@@ -24,6 +24,7 @@ public class testScene : MonoBehaviour {
 
 		if( m_num == 0 ){
 			Debug.Log("テストシーン");
+			TestFunc( 9 );
 		}
 	}
 
